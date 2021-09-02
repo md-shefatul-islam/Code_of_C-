@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe.config
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.pdb
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.exe
+C:\Users\ASUS\source\repos\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.pdb

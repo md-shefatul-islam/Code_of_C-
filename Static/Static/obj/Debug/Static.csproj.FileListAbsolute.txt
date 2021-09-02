@@ -1,0 +1,7 @@
+S:\Code\c#\Static\Static\bin\Debug\Static.exe.config
+S:\Code\c#\Static\Static\bin\Debug\Static.exe
+S:\Code\c#\Static\Static\bin\Debug\Static.pdb
+S:\Code\c#\Static\Static\obj\Debug\Static.csprojAssemblyReference.cache
+S:\Code\c#\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+S:\Code\c#\Static\Static\obj\Debug\Static.exe
+S:\Code\c#\Static\Static\obj\Debug\Static.pdb

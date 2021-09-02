@@ -1,0 +1,15 @@
+S:\Code\c#\WMetro\WMetro\bin\Debug\WMetro.exe.config
+S:\Code\c#\WMetro\WMetro\bin\Debug\WMetro.exe
+S:\Code\c#\WMetro\WMetro\bin\Debug\WMetro.pdb
+S:\Code\c#\WMetro\WMetro\bin\Debug\MetroFramework.Design.dll
+S:\Code\c#\WMetro\WMetro\bin\Debug\MetroFramework.dll
+S:\Code\c#\WMetro\WMetro\bin\Debug\MetroFramework.Fonts.dll
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.csprojAssemblyReference.cache
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.Form1.resources
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.Properties.Resources.resources
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.csproj.GenerateResource.cache
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.csproj.CoreCompileInputs.cache
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.csproj.CopyComplete
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.exe
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.pdb
+S:\Code\c#\WMetro\WMetro\obj\Debug\WMetro.UserControl1.resources

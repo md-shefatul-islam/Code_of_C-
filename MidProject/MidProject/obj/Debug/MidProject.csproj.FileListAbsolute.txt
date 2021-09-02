@@ -1,0 +1,7 @@
+S:\Code\c#\MidProject\MidProject\obj\Debug\MidProject.csprojAssemblyReference.cache
+S:\Code\c#\MidProject\MidProject\obj\Debug\MidProject.csproj.CoreCompileInputs.cache
+S:\Code\c#\MidProject\MidProject\bin\Debug\MidProject.exe.config
+S:\Code\c#\MidProject\MidProject\bin\Debug\MidProject.exe
+S:\Code\c#\MidProject\MidProject\bin\Debug\MidProject.pdb
+S:\Code\c#\MidProject\MidProject\obj\Debug\MidProject.exe
+S:\Code\c#\MidProject\MidProject\obj\Debug\MidProject.pdb

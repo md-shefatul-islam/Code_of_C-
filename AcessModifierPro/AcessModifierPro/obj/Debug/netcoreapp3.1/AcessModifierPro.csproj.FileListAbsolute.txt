@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.csproj.CoreCompileInputs.cache
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.exe
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.deps.json
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.runtimeconfig.json
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.runtimeconfig.dev.json
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.dll
+S:\Code\c#\AcessModifierPro\AcessModifierPro\bin\Debug\netcoreapp3.1\AcessModifierPro.pdb
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.csprojAssemblyReference.cache
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.AssemblyInfoInputs.cache
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.AssemblyInfo.cs
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.csproj.CoreCompileInputs.cache
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.dll
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.pdb
+S:\Code\c#\AcessModifierPro\AcessModifierPro\obj\Debug\netcoreapp3.1\AcessModifierPro.genruntimeconfig.cache

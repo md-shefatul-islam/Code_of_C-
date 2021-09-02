@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\start\start\bin\Debug\start.exe.config
+C:\Users\ASUS\source\repos\start\start\bin\Debug\start.exe
+C:\Users\ASUS\source\repos\start\start\bin\Debug\start.pdb
+C:\Users\ASUS\source\repos\start\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\start\start\obj\Debug\start.exe
+C:\Users\ASUS\source\repos\start\start\obj\Debug\start.pdb
+C:\Users\ASUS\source\repos\start\start\obj\Debug\start.csprojAssemblyReference.cache

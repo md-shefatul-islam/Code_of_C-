@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAFApplication", "WAFApplication\WAFApplication.csproj", "{E814B448-14A6-4290-AE87-91D1E3F58B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E814B448-14A6-4290-AE87-91D1E3F58B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E814B448-14A6-4290-AE87-91D1E3F58B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E814B448-14A6-4290-AE87-91D1E3F58B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E814B448-14A6-4290-AE87-91D1E3F58B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AF9F29-EFB4-4FB2-B630-594F1E10356D}
+	EndGlobalSection
+EndGlobal

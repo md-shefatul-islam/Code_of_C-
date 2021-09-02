@@ -1,0 +1,7 @@
+S:\Code\c#\genericClass\genericClass\obj\Debug\genericClass.csprojAssemblyReference.cache
+S:\Code\c#\genericClass\genericClass\obj\Debug\genericClass.csproj.CoreCompileInputs.cache
+S:\Code\c#\genericClass\genericClass\bin\Debug\genericClass.exe.config
+S:\Code\c#\genericClass\genericClass\bin\Debug\genericClass.exe
+S:\Code\c#\genericClass\genericClass\bin\Debug\genericClass.pdb
+S:\Code\c#\genericClass\genericClass\obj\Debug\genericClass.exe
+S:\Code\c#\genericClass\genericClass\obj\Debug\genericClass.pdb

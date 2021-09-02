@@ -1,0 +1,10 @@
+S:\Code\c#\WAFApplication1\WAFApplication1\bin\Debug\WAFApplication1.exe.config
+S:\Code\c#\WAFApplication1\WAFApplication1\bin\Debug\WAFApplication1.exe
+S:\Code\c#\WAFApplication1\WAFApplication1\bin\Debug\WAFApplication1.pdb
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.csprojAssemblyReference.cache
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.Form1.resources
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.Properties.Resources.resources
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.csproj.GenerateResource.cache
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.csproj.CoreCompileInputs.cache
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.exe
+S:\Code\c#\WAFApplication1\WAFApplication1\obj\Debug\WAFApplication1.pdb

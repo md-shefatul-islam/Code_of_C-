@@ -1,0 +1,11 @@
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.csprojAssemblyReference.cache
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.Form1.resources
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.Properties.Resources.resources
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.UserControl1.resources
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.csproj.GenerateResource.cache
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.csproj.CoreCompileInputs.cache
+S:\Code\c#\Gridview\Gridview\bin\Debug\Gridview.exe.config
+S:\Code\c#\Gridview\Gridview\bin\Debug\Gridview.exe
+S:\Code\c#\Gridview\Gridview\bin\Debug\Gridview.pdb
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.exe
+S:\Code\c#\Gridview\Gridview\obj\Debug\Gridview.pdb

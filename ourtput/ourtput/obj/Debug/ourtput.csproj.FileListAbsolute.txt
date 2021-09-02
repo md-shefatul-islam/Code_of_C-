@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ourtput\ourtput\bin\Debug\ourtput.exe.config
+C:\Users\ASUS\source\repos\ourtput\ourtput\bin\Debug\ourtput.exe
+C:\Users\ASUS\source\repos\ourtput\ourtput\bin\Debug\ourtput.pdb
+C:\Users\ASUS\source\repos\ourtput\ourtput\obj\Debug\ourtput.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ourtput\ourtput\obj\Debug\ourtput.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ourtput\ourtput\obj\Debug\ourtput.exe
+C:\Users\ASUS\source\repos\ourtput\ourtput\obj\Debug\ourtput.pdb

@@ -1,0 +1,11 @@
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.csprojAssemblyReference.cache
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.Formlogin.resources
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.Properties.Resources.resources
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.csproj.GenerateResource.cache
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.csproj.CoreCompileInputs.cache
+S:\Code\c#\WFAManagement\WFAManagement\bin\Debug\WFAManagement.exe.config
+S:\Code\c#\WFAManagement\WFAManagement\bin\Debug\WFAManagement.exe
+S:\Code\c#\WFAManagement\WFAManagement\bin\Debug\WFAManagement.pdb
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.exe
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.pdb
+S:\Code\c#\WFAManagement\WFAManagement\obj\Debug\WFAManagement.FormDashboard.resources

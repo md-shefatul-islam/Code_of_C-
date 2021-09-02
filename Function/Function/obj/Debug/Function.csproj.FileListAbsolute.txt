@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\c#\Function\Function\obj\Debug\Function.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c#\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\Function\Function\bin\Debug\Function.exe.config
+C:\Users\ASUS\Desktop\c#\Function\Function\bin\Debug\Function.exe
+C:\Users\ASUS\Desktop\c#\Function\Function\bin\Debug\Function.pdb
+C:\Users\ASUS\Desktop\c#\Function\Function\obj\Debug\Function.exe
+C:\Users\ASUS\Desktop\c#\Function\Function\obj\Debug\Function.pdb
+S:\Code\c#\Function\Function\obj\Debug\Function.csprojAssemblyReference.cache
+S:\Code\c#\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+S:\Code\c#\Function\Function\obj\Debug\Function.exe
+S:\Code\c#\Function\Function\obj\Debug\Function.pdb

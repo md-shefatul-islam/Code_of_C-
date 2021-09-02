@@ -1,0 +1,7 @@
+S:\Code\c#\VehicleInformation\VehicleInformation\bin\Debug\VehicleInformation.exe.config
+S:\Code\c#\VehicleInformation\VehicleInformation\bin\Debug\VehicleInformation.exe
+S:\Code\c#\VehicleInformation\VehicleInformation\bin\Debug\VehicleInformation.pdb
+S:\Code\c#\VehicleInformation\VehicleInformation\obj\Debug\VehicleInformation.csprojAssemblyReference.cache
+S:\Code\c#\VehicleInformation\VehicleInformation\obj\Debug\VehicleInformation.csproj.CoreCompileInputs.cache
+S:\Code\c#\VehicleInformation\VehicleInformation\obj\Debug\VehicleInformation.exe
+S:\Code\c#\VehicleInformation\VehicleInformation\obj\Debug\VehicleInformation.pdb

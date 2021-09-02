@@ -1,0 +1,7 @@
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\bin\Debug\ObjectOFAllType.exe.config
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\bin\Debug\ObjectOFAllType.exe
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\bin\Debug\ObjectOFAllType.pdb
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\obj\Debug\ObjectOFAllType.csprojAssemblyReference.cache
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\obj\Debug\ObjectOFAllType.csproj.CoreCompileInputs.cache
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\obj\Debug\ObjectOFAllType.exe
+S:\Code\c#\ObjectOFAllType\ObjectOFAllType\obj\Debug\ObjectOFAllType.pdb

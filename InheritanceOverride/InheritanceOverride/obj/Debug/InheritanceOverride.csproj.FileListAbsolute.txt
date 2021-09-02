@@ -1,0 +1,7 @@
+S:\Code\c#\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.exe.config
+S:\Code\c#\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.exe
+S:\Code\c#\InheritanceOverride\InheritanceOverride\bin\Debug\InheritanceOverride.pdb
+S:\Code\c#\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.csprojAssemblyReference.cache
+S:\Code\c#\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.CoreCompileInputs.cache
+S:\Code\c#\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.exe
+S:\Code\c#\InheritanceOverride\InheritanceOverride\obj\Debug\InheritanceOverride.pdb

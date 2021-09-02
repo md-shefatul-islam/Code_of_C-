@@ -1,0 +1,10 @@
+S:\Code\c#\WFADBLogin\WFADBLogin\bin\Debug\WFADBLogin.exe.config
+S:\Code\c#\WFADBLogin\WFADBLogin\bin\Debug\WFADBLogin.exe
+S:\Code\c#\WFADBLogin\WFADBLogin\bin\Debug\WFADBLogin.pdb
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.csprojAssemblyReference.cache
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.Form1.resources
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.Properties.Resources.resources
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.csproj.GenerateResource.cache
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.csproj.CoreCompileInputs.cache
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.exe
+S:\Code\c#\WFADBLogin\WFADBLogin\obj\Debug\WFADBLogin.pdb

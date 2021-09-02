@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\obj\Debug\Consturctor.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\obj\Debug\Consturctor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\bin\Debug\Consturctor.exe.config
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\bin\Debug\Consturctor.exe
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\bin\Debug\Consturctor.pdb
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\obj\Debug\Consturctor.exe
+C:\Users\ASUS\source\repos\Consturctor\Consturctor\obj\Debug\Consturctor.pdb

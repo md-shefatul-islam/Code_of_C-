@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\GameInformation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\ASUS\source\repos\GameInformation\Game\bin\Debug\Game.exe.config
+C:\Users\ASUS\source\repos\GameInformation\Game\bin\Debug\Game.exe
+C:\Users\ASUS\source\repos\GameInformation\Game\bin\Debug\Game.pdb
+C:\Users\ASUS\source\repos\GameInformation\Game\obj\Debug\GameInformation.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\GameInformation\Game\obj\Debug\GameInformation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GameInformation\Game\obj\Debug\Game.exe
+C:\Users\ASUS\source\repos\GameInformation\Game\obj\Debug\Game.pdb
